@@ -1,7 +1,7 @@
 [![LogoBanner](https://github.com/SangeloDev/SangeloDev/blob/main/Banner%20Dark%206818x2727.png)](https://sangelo.space)
 
 ## Hi, it's me! Sangelo.
-I'm a guy who makes random stuff. There's not a lot to tell about me.<br/>I am just a dude somewhere on the world.<br/><br/>Contact me at: [contact@sangelo.space](mailto:contact@sangelo.space)
+I'm a guy who makes random stuff. There's not a lot to tell about me.<br/>I am just a dude somewhere on the world.
   
 ### Socials
 [![Website](https://img.shields.io/badge/website-sangelo.space-00B1FA)](https://sangelo.space) [![Discord](https://img.shields.io/badge/Discord-Sangelo%230089-6E85D3)](https://dsc.bio/sangelo) [![Patreon](https://img.shields.io/badge/donate-patreon-E96250)](https://patreon.com/sangelo) [![DiscordChat](https://img.shields.io/discord/533012823106781185?color=6E85D3&logo=Discord)](https://sangelo.space/discord) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCeaxiuBnI6mP6LveIyZao5A?label=YouTube)](https://bit.ly/SangeloYT) [![Twitter](https://img.shields.io/twitter/follow/sangeloslime?label=Twitter&style=social)](https://twitter.com/SangeloSlime)
