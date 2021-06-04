@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+[![LogoBanner](https://github.com/SangeloDev/SangeloDev/blob/main/Banner%20Dark%206818x2727.png)](https://sangelo.space)
 
-You can use the [editor on GitHub](https://github.com/SangeloDev/SangeloDev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Hi, it's me! Sangelo.
+I'm a guy who makes random stuff. There's not a lot to tell about me.<br/>I am just a dude somewhere on the world.
+  
+### Socials
+[![Website](https://img.shields.io/badge/website-sangelo.space-00B1FA)](https://sangelo.space) [![Discord](https://img.shields.io/badge/Discord-Sangelo%230089-6E85D3)](https://dsc.bio/sangelo) [![Patreon](https://img.shields.io/badge/donate-patreon-E96250)](https://patreon.com/sangelo) [![DiscordChat](https://img.shields.io/discord/533012823106781185?color=6E85D3&logo=Discord)](https://sangelo.space/discord) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCeaxiuBnI6mP6LveIyZao5A?label=YouTube)](https://bit.ly/SangeloYT) [![Twitter](https://img.shields.io/twitter/follow/sangeloslime?label=Twitter&style=social)](https://twitter.com/SangeloSlime)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SangeloDev/SangeloDev/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=sangelodev&theme=algolia&show_icons=true&hide_border=true&custom_title=Sangelo's%20Stats)](https://github.com/SangeloDev)<br/>[![Top-Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sangelodev&theme=algolia&show_icons=true&hide_border=true&custom_title=Most%20Used%20Languages)](https://github.com/anuraghazra/github-readme-stats)
