@@ -1,4 +1,4 @@
-[![LogoBanner](https://github.com/SangeloDev/SangeloDev/blob/main/Banner%20Dark%206818x2727.png)](https://sangelo.space)
+[![LogoBanner](https://raw.githubusercontent.com/SangeloDev/SangeloDev/main/Banner%20Dark%206818x2727.png)](https://sangelo.space)
 
 ## Hi, it's me! Sangelo.
 I'm a guy who makes random stuff. There's not a lot to tell about me.<br/>I am just a dude somewhere on the world.
