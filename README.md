@@ -10,7 +10,6 @@ I enjoy creating a variety of things, including UI prototypes, scripts, and prog
 I'm also on some other Git forges, you can view more of my work here:
 
 [![gitpot.org - sangelo](https://img.shields.io/badge/gitpot.org-sangelo-f9774c?logo=git)](https://gitpot.org/sangelo)
-[![gitlab.com - Sangelo](https://img.shields.io/badge/gitlab.com-Sangelo-fc6d26?logo=gitlab)](https://gitlab.com/Sangelo)
 
 ### Socials
 [![Website](https://img.shields.io/badge/website-sangelo.space-00B1FA)](https://sangelo.space)
